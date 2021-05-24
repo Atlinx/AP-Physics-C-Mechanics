@@ -1,47 +1,32 @@
 {
   "main": {
-    "id": "a46818f526b24d56",
+    "id": "02537dd47c0c4685",
     "type": "split",
     "children": [
       {
-        "id": "962eef4a6045ae0c",
+        "id": "67653c657fc2b2c9",
         "type": "leaf",
-        "dimension": 68.94601542416451,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Simple Harmonic Motion.md",
+            "file": "Main.md",
             "mode": "source"
           }
-        },
-        "group": "8d64f3d6688404bb"
-      },
-      {
-        "id": "5232101f8005574b",
-        "type": "leaf",
-        "dimension": 31.053984575835475,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "pages/Simple Harmonic Motion.md",
-            "mode": "preview"
-          }
-        },
-        "group": "8d64f3d6688404bb"
+        }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "ede781f06660584d",
+    "id": "f8596a8c8686d108",
     "type": "split",
     "children": [
       {
-        "id": "5f4ce4edbc0b3e78",
+        "id": "7f44584e66da367b",
         "type": "tabs",
         "children": [
           {
-            "id": "94468eb2bf551b54",
+            "id": "ff377ff3566f33b5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -49,12 +34,12 @@
             }
           },
           {
-            "id": "b31c28fc654c2498",
+            "id": "77d36d08def341f6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "series",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,20 +55,20 @@
     "width": 300
   },
   "right": {
-    "id": "a0c2f6abcc0abe8b",
+    "id": "b2518fcc3c4918b6",
     "type": "split",
     "children": [
       {
-        "id": "1b9f4a5328f245b4",
+        "id": "cbb5cd57d7c5da9e",
         "type": "tabs",
         "children": [
           {
-            "id": "2c569e9b8083e9bf",
+            "id": "df8bae43f886e896",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Simple Harmonic Motion.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "962eef4a6045ae0c",
+  "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
-    "pages/Simple Harmonic Motion.md",
-    "pages/Springs.md",
-    "Work.md",
-    "README.md",
-    "pages/Superposition Principle.md",
-    "Pasted image 20210524125629.png",
-    "Main.md",
-    "pages/Energy.md",
-    "pages/Inverse Square Law.md",
-    "Simple Harmonic Motion.md"
+    "Main.md"
   ]
 }
