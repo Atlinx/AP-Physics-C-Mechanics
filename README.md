@@ -1,3 +1,3 @@
-# AP Physics C: Electricity and Magnetism
+# AP Physics C: Mechanics
 
-🧲 The magical forces of electrons.
+💥 Collisions!

@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "a46818f526b24d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "962eef4a6045ae0c",
+        "type": "leaf",
+        "dimension": 61.89719130895601,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        },
+        "group": "8d64f3d6688404bb"
+      },
+      {
+        "id": "5232101f8005574b",
+        "type": "leaf",
+        "dimension": 38.10280869104399,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "8d64f3d6688404bb"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede781f06660584d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f4ce4edbc0b3e78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94468eb2bf551b54",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b31c28fc654c2498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "series",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0c2f6abcc0abe8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9f4a5328f245b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c569e9b8083e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "962eef4a6045ae0c",
+  "lastOpenFiles": [
+    "README.md",
+    "Main.md",
+    "pages/Capacitors.md",
+    "pages/Bio-Savart Law.md",
+    "pages/Electric Potential due to a Continous Charge Distribution.md",
+    "pages/Superposition Principle.md",
+    "Electric Field due to a Continous Charge Distribution.md",
+    "Electric Potential due to a Continous Charge Distribution.md",
+    "Capacitors.md",
+    "Resistors.md"
+  ]
+}
