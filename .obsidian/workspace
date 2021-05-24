@@ -6,11 +6,11 @@
       {
         "id": "962eef4a6045ae0c",
         "type": "leaf",
-        "dimension": 61.89719130895601,
+        "dimension": 68.94601542416451,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "pages/Simple Harmonic Motion.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "5232101f8005574b",
         "type": "leaf",
-        "dimension": 38.10280869104399,
+        "dimension": 31.053984575835475,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "pages/Simple Harmonic Motion.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "pages/Simple Harmonic Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "962eef4a6045ae0c",
   "lastOpenFiles": [
+    "pages/Simple Harmonic Motion.md",
+    "pages/Springs.md",
+    "Work.md",
     "README.md",
-    "Main.md",
-    "pages/Capacitors.md",
-    "pages/Bio-Savart Law.md",
-    "pages/Electric Potential due to a Continous Charge Distribution.md",
     "pages/Superposition Principle.md",
-    "Electric Field due to a Continous Charge Distribution.md",
-    "Electric Potential due to a Continous Charge Distribution.md",
-    "Capacitors.md",
-    "Resistors.md"
+    "Pasted image 20210524125629.png",
+    "Main.md",
+    "pages/Energy.md",
+    "pages/Inverse Square Law.md",
+    "Simple Harmonic Motion.md"
   ]
 }
