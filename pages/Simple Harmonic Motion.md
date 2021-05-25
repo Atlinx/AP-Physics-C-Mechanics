@@ -31,13 +31,38 @@ $$\Large x = A\cos(\omega t)$$
 > **NOTE:**
 > The $y = Asin(\theta t)$ comes from using  the $y$ position of the imaginary particle moving around a circle.
 
-Additionally particle follow simple harmonic motion if
+Additionally since the particle is moving a circular motion, we know there is a centripetal force acting on it.
 
-$$\Large a = -\omega^2 x$$
+$$\Large a_\text{c} = \frac{v_\text{tang}^2}{r}$$
+
+Using the arc length formula, we know that
+
+$$\Large r \omega = v_\text{tang}$$
+
+Therefore,
+
+$$
+\Large
+\begin{aligned}
+a_\text{c} &= \frac{r^2 \omega^2}{r} \\
+&= r \omega^2 \\
+\end{aligned}
+$$
+
+In the context of SHM, $r$ is normally the position of an object undergoing SHM. Additionally, a negative is often added to indicate that the acceleration is a restoring force — a force that acts against the direction of movement.
+
+Therefore the formula is rewritten as
+
+$$\Huge a = -\omega^2 x$$
 > **LEGEND:**
 > $a$ - Acceleration of the particle pointing in the direction of displacement
 > $x$ - Displacement of the particle
 > $\omega$ - A constant of proportionality
+
+This equation is also often rewritten as
+
+$$\Huge a + \omega^2 x = 0$$
+$$\Huge \frac{d^2x}{dt^2} + \omega^2 x = 0$$
 
 ## Forms of Simple Harmonic Motion
 
