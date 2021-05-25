@@ -2,35 +2,100 @@ Tags: #Topic
 
 # Springs
 
-Springs are coils of a material that can stretch and shrink but always wants to return to it's original positon.
+Springs are coils of a material that can stretch and shrink but always wants to return to it's original position.
 
-The more you stretch or compress a sspring, the greater the force exerted by the spring.
+The more you stretch or compress a spring, the greater the force exerted by the spring.
 
-**Equilibrium Position** - The orignal position that a spring wants to return to
+**Equilibrium Position** - The original position that a spring wants to return to
 
-## Hooke's Law
-The force exerted by the spring to return to it's equilibrium position is
+## [[Hooke's Law]]
+## [[Spring Potential Energy]]
 
-$$\Huge F_s = -kx$$
-> **LEGEND:**
-> $-$ - Negative means the force is a restoring force — if you stretch the spring out, it wants to contract.
-> $k$ - Spring constant, which depends on the spring's material makup. This is measured in $N/m$.
-> $x$ - Distance that the end of the spring is pull away from the equilibrium position.
+## Springs in Series and Parallel
 
-The potential energy of a spring is
+Similar to circuits, springs can be "simplified" into an equivalent spring that behaves exactly the same as the ends of a group of connected springs.
 
-$$\Huge U_s = \frac{1}{2}kx^2$$
-> **LEGEND:**
-> $-$ - Negative means the force points towards the equilibrium position.
-> $k$ - Spring constant, which depends on the spring's material makup.
-> $x$ - Distance that the end of the spring is pull away from the equilibrium position.
+### Series
 
-> **NOTE:**
-> This is derived from the work done by compressing a spring. Since the work is the area under the curve of a force vs displacement graph and this type of graph for a spring is a triangle, 
-> $$
+![](../attachments/springs_in_series.png)
+
+$$\Large k_\text{eq} = \left( \frac{1}{k_1} + \frac{1}{k_2} + \frac{1}{k_3} + \ldots \right)^{-1}$$
+
+**Springs in series are like capacitors in series.**
+
+#### Derivation
+
+Assume the system is at rest.
+
+If we analyze the line connecting the two springs, then
+
+$$\Large F_\text{net} = F_2 - F_1 = 0$$
+$$
 \Large
 \begin{aligned}
-W &= \frac{1}{2}F_s x \\
-&= \frac{1}{2}k x^2 \\
+F_1 &= F_2 \\
+k_1 x_1 &= k_2 x_2 \\
+x_1 &= \frac{k_2}{k_1} x_2 \\
 \end{aligned}
-> $$
+$$
+
+The total displacement is the sum of the individual displacement of each spring.
+
+$$\Large x_{eq} = x_1 + x_2$$
+
+We assume there is some equivalent spring that can model the behavior of the force exerted on the mass by the final spring.
+
+$$\Large
+\begin{aligned}
+F_\text{eq} &= k_\text{eq}x_{eq} \\
+&= k_\text{eq} (x_1 + x_2) \\
+&= k_\text{eq} \left( \frac{k_2}{k_1} x_2 + x_2 \right) \\
+&= k_\text{eq} x_2 \left( \frac{k_2}{k_1} + 1 \right) \\
+\end{aligned}
+$$
+
+We also know that $F_\text{eq}$ is also just the spring force of the final spring that is connected to the block.
+
+$$\Large F_\text{eq} = k_2 x_2 = k_\text{eq}$$
+
+Therefore,
+
+$$
+\Large
+\begin{aligned}
+k_2 x_2 &= k_\text{eq} x_2 \left( \frac{k_2}{k_1} + 1 \right) \\
+k_2 &= k_\text{eq} \left( \frac{k_2}{k_1} + 1 \right) \\
+\frac{1}{k_2} &= \frac{1}{k_\text{eq} \left( \frac{k_2}{k_1} + 1 \right)} \\
+\end{aligned}
+$$
+
+$$
+\Large
+\begin{aligned}
+\frac{1}{k_2} \left( \frac{k_2}{k_1} + 1 \right) &= \frac{1}{k_\text{eq}} \\
+\frac{1}{k_1} + \frac{1}{k_2} &= \frac{1}{k_\text{eq}} \\
+\end{aligned}
+$$
+
+### Parallel
+
+![](../attachments/springs_in_parallel.png)
+
+$$\Large k_\text{eq} = k_1 + k_2 + k_3 + \ldots$$
+
+
+**Springs in parallel are like capacitors in parallel.**
+
+#### Derivation
+
+$$
+\Large
+\begin{aligned}
+F_\text{eq} &= k_\text{eq} x_\text{eq} = k_1 x + k_2 x\\ 
+&= (k_1 + k_2)x\\
+\end{aligned}
+$$
+
+Since the right-hand side of the equation looks to be in the form of a spring, we can conclude that 
+
+$$\Large k_\text{eq} = k_1 + k_2 $$

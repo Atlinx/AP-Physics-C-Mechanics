@@ -6,13 +6,28 @@
       {
         "id": "67653c657fc2b2c9",
         "type": "leaf",
+        "dimension": 71.93877551020408,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Pendulums.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c623858035ecdccb"
+      },
+      {
+        "id": "8de2b8279c453ca1",
+        "type": "leaf",
+        "dimension": 28.061224489795915,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "pages/Pendulums.md",
+            "mode": "preview"
+          }
+        },
+        "group": "c623858035ecdccb"
       }
     ],
     "direction": "vertical"
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "pages/Pendulums.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +103,15 @@
   },
   "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
+    "pages/Pendulums.md",
+    "pages/Work.md",
+    "pages/Springs.md",
+    "pages/Superposition Principle.md",
+    "pages/Spring Potential Energy.md",
+    "pages/Hooke's Law.md",
+    "pages/Energy.md",
+    "Pendulums.md",
+    "pages/Simple Harmonic Motion.md",
     "Main.md"
   ]
 }
