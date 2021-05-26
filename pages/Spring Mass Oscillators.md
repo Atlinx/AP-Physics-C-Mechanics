@@ -8,7 +8,7 @@ Tags #Topic
 
 ### Derivation
 
-Using Hooke's Law (under [[Springs]]),
+Using [[Hooke's Law]],
 
 $$\Large F_s = ma = -kx$$
 

@@ -10,26 +10,9 @@ Energy is a scalar quantity and is measured in joules.
 
 **Joule** ($J$) - A unit of energy.
 
-## Potential Energy
+## [[Potential Energy]]
 
-Potential energy is a whole subset of energy which is categorized as energy stored by in an object by virtue of the object's position, or other intrinsic property.
-
-#### [[Gravitational Potential Energy]]
-#### [[Spring Potential Energy]]
-
-## Kinetic Energy
-
-**Kinetic Energy** ($K$ : Scalar | $J$)
-
-Energy of a object by virtue of it's movement
-
-This form of energy is studied mostly in mechanics.
-
-$$\Huge K = \frac{1}{2}mv^2$$
-
-> **LEGEND:**
-> $m$ - Mass of the moving object.
-> $v$ - Velocity of the moving object.
+## [[Kinetic Energy]]
 
 ## Power
 

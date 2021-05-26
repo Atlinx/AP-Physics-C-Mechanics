@@ -4,6 +4,8 @@ Tags: #Topic
 
 ![](../attachments/simple_pendulum.png)
 
+Simple pendulums are pendulums with a point mass hanging from a string of negligable mass.
+
 $$\Large \omega = \sqrt{\frac{g}{L}}$$
 
 $$\Large T = 2 \pi \sqrt{\frac{L}{g}}$$
@@ -31,11 +33,11 @@ $$
 
 Plugging back into the SHM equation,
 
-$$\Large g \sin\theta = \omega^2x$$
+$$\Large g \sin\theta = \omega^2s$$
 
 Since $\theta \approx \sin\theta$ for small angles of $\theta$, then
 
-$$\Large g \theta = \omega^2x$$
+$$\Large g \theta = \omega^2s$$
 
 Since the displacement is an arc length,
 
@@ -74,19 +76,13 @@ $$\Large \tau_p = (-\vec F_g \times \vec L) = I_p \alpha$$
 > **NOTE:**
 > This equation is negative since the force of gravity is a restoring forc
 
-$$\Large -mgL\cos(90^\circ - \theta) = I_p \alpha$$
+$$\Large -mgL\sin\theta = I_p \alpha$$
 
 Rewriting angular acceleration as,
 
 $$\Large \alpha = \frac{d^2 \theta}{dt^2}$$
 
-$$
-\Large
-\begin{aligned}
--mgL\cos(90^\circ - \theta) &= I_p \cdot \frac{d^2 \theta}{dt^2} \\
--mgL\sin(\theta) &= I_p \cdot \frac{d^2x}{dt^2} \\
-\end{aligned}
-$$
+$$\Large -mgL\sin\theta = I_p \cdot \frac{d^2x}{dt^2}$$
 
 For small angles of $\theta$, $\theta \approx \sin\theta$. Therefore,
 
