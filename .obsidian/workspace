@@ -6,11 +6,11 @@
       {
         "id": "67653c657fc2b2c9",
         "type": "leaf",
-        "dimension": 63.26530612244898,
+        "dimension": 58.9622641509434,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Simple Harmonic Motion.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "8de2b8279c453ca1",
         "type": "leaf",
-        "dimension": 36.734693877551024,
+        "dimension": 41.0377358490566,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Simple Harmonic Motion.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Simple Harmonic Motion.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
-    "pages/Simple Harmonic Motion.md",
-    "pages/Spring Mass Oscillators.md",
-    "pages/Pendulums.md",
-    "pages/Physical Pendulum.md",
-    "pages/Simple Pendulum.md",
-    "pages/Hooke's Law.md",
+    "Main.md",
+    "pages/Superposition Principle.md",
     "pages/Energy.md",
+    "pages/Pendulums.md",
     "Potential Energy.md",
-    "Gravitational Potential Energy.md",
-    "pages/Spring Potential Energy.md"
+    "pages/Spring Potential Energy.md",
+    "pages/Work.md",
+    "pages/Springs.md",
+    "Simple Pendulum.md",
+    "pages/Hooke's Law.md"
   ]
 }
