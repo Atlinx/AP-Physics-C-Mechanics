@@ -6,11 +6,11 @@
       {
         "id": "67653c657fc2b2c9",
         "type": "leaf",
-        "dimension": 67.64705882352942,
+        "dimension": 63.26530612244898,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Energy.md",
+            "file": "Torque.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "8de2b8279c453ca1",
         "type": "leaf",
-        "dimension": 32.35294117647059,
+        "dimension": 36.734693877551024,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Energy.md",
+            "file": "Torque.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\\frac{m}{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Energy.md",
+                "file": "Torque.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
-    "pages/Energy.md",
-    "Gravitational Potential Energy.md",
-    "Kinetic Energy.md",
+    "Torque.md",
+    "Rotational Kinematics.md",
+    "Angular Momentum.md",
+    "Kinematics.md",
+    "Linear Kinematics.md",
     "Main.md",
-    "Potential Energy.md",
-    "README.md",
-    "Mass Dependent Forces.md",
-    "Velocity Dependent Forces.md",
-    "pages/Superposition Principle.md",
-    "pages/Pendulums.md"
+    "Rotational Vector Right-Hand Rule.md",
+    "Linear Momentum.md",
+    "Force.md",
+    "pages/Work.md"
   ]
 }

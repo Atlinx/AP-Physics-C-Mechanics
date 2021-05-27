@@ -64,7 +64,7 @@ Since we are evaluating from $0$ to $v$ and from $0$ to $t$, we can remove the a
 
 $$\Large \left. ln \left( v - \frac{mg}{b} \right) \right|_0^v = \left. \left(- \frac{b}{m}t \right) \right|_0^t$$
 
-$$\large ln \left( v - \frac{mg}{b} \right) - ln \left( - \frac{mg}{b} \right) = - \frac{b}{m}t - 0$$
+$$ln \left( v - \frac{mg}{b} \right) - ln \left( - \frac{mg}{b} \right) = - \frac{b}{m}t - 0$$
 
 $$\Large ln \left(\frac{v - \frac{mg}{b}}{- \frac{mg}{b}} \right) = - \frac{b}{m}t $$
 
@@ -78,10 +78,10 @@ $$\Large v = \frac{mg}{b} \left( - e^{- \frac{b}{m}t} + 1 \right)$$
 
 Therefore our equation is
 
-$$\Large v = \frac{mg}{b} \left(1 - e^{- \frac{b}{m}t} \right)$$
+$$\huge v = \frac{mg}{b} \left(1 - e^{- \frac{b}{m}t} \right)$$
 
 We can see that as $t \to \infty$, the velocity appraoches $\dfrac{mg}{b}$.
 
 This means the terminal velocity, the maximum speed of an object, is
 
-$$\Large v_\text{max} = \dfrac{mg}{b}$$
+$$\Huge v_\text{max} = \dfrac{mg}{b}$$
