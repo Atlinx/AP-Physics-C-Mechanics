@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Torque.md",
+            "file": "Main.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Torque.md",
+            "file": "Main.md",
             "mode": "preview"
           }
         },
@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torque.md",
+                "file": "Main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "67653c657fc2b2c9",
+  "active": "8de2b8279c453ca1",
   "lastOpenFiles": [
-    "Torque.md",
-    "Rotational Kinematics.md",
-    "Angular Momentum.md",
-    "Kinematics.md",
-    "Linear Kinematics.md",
     "Main.md",
-    "Rotational Vector Right-Hand Rule.md",
-    "Linear Momentum.md",
-    "Force.md",
-    "pages/Work.md"
+    "pages/Gravity.md",
+    "attachments/gravitational_potential_energy_derivation.png",
+    "pages/Gravitational Potential Energy.md",
+    "gravitational_potential_energy_derivation.png",
+    "Gravity.md",
+    "Pasted image 20210527175012.png",
+    "Gravitational Force.md",
+    "pages/Energy.md",
+    "pages/Potential Energy.md"
   ]
 }

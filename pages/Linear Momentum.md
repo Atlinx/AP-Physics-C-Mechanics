@@ -29,7 +29,7 @@ $$\Huge \Delta p = F\Delta t$$
 
 In a closed system, linear momentum is always conserved. That is when a collision occurs,
 
-$$\Large p_0 = p_f$$
+$$\Huge p_0 = p_f$$
 
 > **LEGEND:**
 > $p_0$ - Net linear momentum of the closed system before the collision.

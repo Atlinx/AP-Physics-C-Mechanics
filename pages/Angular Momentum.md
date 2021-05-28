@@ -35,7 +35,7 @@ $$\Huge \Delta L = \tau\Delta t$$
 
 In a closed system, angular momentum is always conserved. That is when a collision occurs,
 
-$$\Large L_0 = L_f$$
+$$\Huge L_0 = L_f$$
 
 > **LEGEND:**
 > $L_0$ - Net angular momentum of the closed system before the collision.

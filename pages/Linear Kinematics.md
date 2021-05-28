@@ -36,7 +36,7 @@ $$\Huge a = \frac{\Delta v}{\Delta t}$$
 ## Equations
 
 $$
-\Huge
+\huge
 \begin{aligned}
 v &= v_0 + at \\
 x &= x_0 + v_0 t + \frac{1}{2}at^2 \\

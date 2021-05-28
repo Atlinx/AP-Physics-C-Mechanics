@@ -10,6 +10,7 @@
 4. #### [[Work]]
 5. #### [[Springs]]
 6. #### [[Kinematics]]
-7. #### [[Simple Harmonic Motion]]
+7. #### [[Gravity]]
+8. #### [[Simple Harmonic Motion]]
 10. #### [[Velocity Dependent Forces]]
 11. #### [[Mass Dependent Forces]]

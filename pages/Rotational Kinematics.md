@@ -29,17 +29,17 @@ $$\Huge \omega = \frac{\Delta \theta}{\Delta t}$$
 
 **Angular Acceleration** ($\alpha$ : Acceleration | $\frac{\text{rad}}{s^2}$) - The change in angular velocity of an object over time.
 
-$$\Huge a = \frac{\Delta v}{\Delta t}$$
+$$\Huge \alpha = \frac{\Delta \omega}{\Delta t}$$
 
 > **LEGEND:**
-> $a$ - Angular acceleration of the object
-> $\Delta v$ - Change in angular velocity of the object.
+> $\alpha$ - Angular acceleration of the object
+> $\Delta \omega$ - Change in angular velocity of the object.
 > $\Delta t$ - Time taken for the object to change its angular velocity.
 
 ## Equations
 
 $$
-\Large
+\huge
 \begin{aligned}
 \omega &= \omega_0 + \alpha t \\
 \theta &= \theta_0 + \omega_0 t + \frac{1}{2}\alpha t^2 \\

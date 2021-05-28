@@ -9,4 +9,4 @@ $$\Huge F = ma$$
 > **LEGEND:**
 > $F$ - Force exerted on the object.
 > $m$ - Mass of the object.
-> $a$ - Acceleration of the object.
+> $a$ - Acceleration of the object from the force.
