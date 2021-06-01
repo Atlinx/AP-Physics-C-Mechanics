@@ -15,9 +15,9 @@ $$\Huge \tau = I \alpha$$
 
 #### [[Moment of Inertia]]
 
-Torque is related to force by
-
 ## Force to Torque
+
+Torque is related to force by
 
 $$\Huge \tau = F \times L$$
 
