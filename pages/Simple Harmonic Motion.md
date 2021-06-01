@@ -120,9 +120,6 @@ $$\Huge f = \frac{1}{T}$$
 
 Simple harmonic motion creates a constant cycle of transfering potential energy into kinetic energy and then back into potential energy.
 
-> **NOTE:**
-> For the derivation of 
-
 ### Potential Energy
 
 Since the [potential energy of a spring](Spring%20Potential%20Energy.md), which is also the potential energy of a SHM, is given by
