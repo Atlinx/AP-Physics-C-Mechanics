@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Torque.md",
+            "file": "pages/Moment of Inertia.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Torque.md",
+            "file": "pages/Moment of Inertia.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Torque.md",
+                "file": "pages/Moment of Inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
-    "pages/Torque.md",
     "Moment of Inertia.md",
+    "pages/Angular Momentum.md",
+    "pages/Work.md",
+    "pages/Velocity Dependent Forces.md",
+    "pages/Torque.md",
     "Parallel Axis Theorem.md",
     "pages/Simple Harmonic Motion.md",
     "pages/Force.md",
     "Main.md",
-    "pages/Gravity.md",
-    "attachments/gravitational_potential_energy_derivation.png",
-    "pages/Gravitational Potential Energy.md",
-    "gravitational_potential_energy_derivation.png"
+    "pages/Gravity.md"
   ]
 }
