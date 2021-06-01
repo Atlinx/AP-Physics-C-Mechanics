@@ -37,6 +37,9 @@ Therefore,
 
 $$\Large m\frac{dv}{dt} = mg - bv$$
 
+> **NOTE:**
+> $m \dfrac{dv}{dt}$ must always be the opposite sign of the drag force. This seems to be just a common convention used. (Technically it does not matter where the signs are since a negative would just show up when evaluating for $\dfrac{dv}{dt}$, but College Board seems to prefer this convention).  
+
 Additionally, this equation is often solved to be a transient equation for velocity. This solution is,
 
 $$

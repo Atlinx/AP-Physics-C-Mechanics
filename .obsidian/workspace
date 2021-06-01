@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Velocity Dependent Forces.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Main.md",
+            "file": "pages/Velocity Dependent Forces.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac{m}{",
+                "query": "drag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main.md",
+                "file": "pages/Velocity Dependent Forces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +102,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8de2b8279c453ca1",
+  "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
+    "pages/Velocity Dependent Forces.md",
+    "pages/Mass Dependent Forces.md",
+    "pages/Simple Harmonic Motion.md",
     "Main.md",
     "pages/Gravity.md",
     "attachments/gravitational_potential_energy_derivation.png",
     "pages/Gravitational Potential Energy.md",
     "gravitational_potential_energy_derivation.png",
     "Gravity.md",
-    "Pasted image 20210527175012.png",
-    "Gravitational Force.md",
-    "pages/Energy.md",
-    "pages/Potential Energy.md"
+    "Pasted image 20210527175012.png"
   ]
 }
