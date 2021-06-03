@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Moment of Inertia.md",
+            "file": "Center of Mass.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "pages/Moment of Inertia.md",
+            "file": "Center of Mass.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\frac{m}{",
+                "query": "NOTE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/Moment of Inertia.md",
+                "file": "Center of Mass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +104,15 @@
   },
   "active": "67653c657fc2b2c9",
   "lastOpenFiles": [
-    "Moment of Inertia.md",
-    "pages/Angular Momentum.md",
-    "pages/Work.md",
-    "pages/Velocity Dependent Forces.md",
-    "pages/Torque.md",
-    "Parallel Axis Theorem.md",
-    "pages/Simple Harmonic Motion.md",
-    "pages/Force.md",
+    "Center of Mass.md",
     "Main.md",
-    "pages/Gravity.md"
+    "pages/Mass Dependent Forces.md",
+    "pages/Parallel Axis Theorem.md",
+    "pages/Superposition Principle.md",
+    "pages/Springs.md",
+    "pages/Angular Momentum.md",
+    "pages/Energy.md",
+    "pages/Rotational Vector Right-Hand Rule.md",
+    "pages/Simple Harmonic Motion.md"
   ]
 }
